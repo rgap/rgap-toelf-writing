@@ -1,4 +1,4 @@
-## Toefl Writing App
+## TOEFL Writing App
 
 ### How to run it
 
