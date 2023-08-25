@@ -9,6 +9,6 @@ pyinstaller --windowed ToeflWriting.py
 ToeflWriting.exe
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/rgap/rgap-toelf-writing/main/toefl-writing.png" width="350" alt="TOEFL Writing App">
+  <img src="https://raw.githubusercontent.com/rgap/rgap-toelf-writing/main/toefl-writing.png" width="400" alt="TOEFL Writing App">
 </p>
 
